@@ -1,5 +1,6 @@
 #ignore
 Ressource/
+!User_stories.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
