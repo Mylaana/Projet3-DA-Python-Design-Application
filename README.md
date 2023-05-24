@@ -21,7 +21,7 @@ un nouveau site web, qui doit être composé des pages suivantes :
 Afin de répondre au mieux au besoin du client nous avons mis en place pour chaque page demandée les éléments suivant :
 - Des user stories décrivant les besoin des utilisateurs et critères d'acceptation
 - Un diagramme de cas d'usage (logiciel Balsamiq)
-- Un wireframe (logiciel Balsamiq)
+- Un wireframe pour la version WEB et PHONE (logiciel Balsamiq)
 
 Nous avons également mis en place un Kanban pour répartir les tâches durant le développement du site :
 https://trello.com/b/aWi96nuF/learnhome
