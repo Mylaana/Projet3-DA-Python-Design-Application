@@ -1,7 +1,7 @@
 #ignore
 Livrables/
 Ressource/
-FichiersDeTravail/*.xlsx
+FichiersDeTravail/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
